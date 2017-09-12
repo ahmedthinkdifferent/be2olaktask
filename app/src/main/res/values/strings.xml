@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bey2olakTask</string>
+    <string name="operation_failed">Operation failed!</string>
+    <string name="no_internet_connection">No internet connection, try again?</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="cannot_load_data">Cannot load data, try again later.</string>
+    <string name="search_hint">search place</string>
+    <string name="important">Important</string>
+</resources>
